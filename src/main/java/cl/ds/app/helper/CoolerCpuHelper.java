@@ -9,6 +9,8 @@ public class CoolerCpuHelper {
         System.out.println(crearCpuVacio());
         System.out.println(crearCpuParametros());
         //comentarios
+        //hola
+
 
 
     }
